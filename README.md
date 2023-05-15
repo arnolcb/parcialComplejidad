@@ -1,2 +1,2 @@
 # parcialComplejidad
-Resolución del examen parcial del curso Complejidad Algorítmica
+Solución del examen parcial del curso Complejidad Algorítmica
